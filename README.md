@@ -1,2 +1,2 @@
 # Kuzco
-### Coming Soon
+### Points System

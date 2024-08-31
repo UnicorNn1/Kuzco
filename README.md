@@ -1,3 +1,3 @@
 # Kuzco
 ### Points System
-## Coming Soon
+## New Phase coming ...
